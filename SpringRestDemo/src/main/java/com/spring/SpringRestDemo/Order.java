@@ -6,7 +6,6 @@ public class Order {
 	private double price;
 	public Order() {}
 	public Order(int id, String title, double price) {
-		super();
 		this.id = id;
 		this.title = title;
 		this.price = price;
